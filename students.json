@@ -1,0 +1,14 @@
+[
+    {
+        "roll": "42",
+        "name": "robie",
+        "age": "23",
+        "course": "aiml"
+    },
+    {
+        "roll": "24",
+        "name": "funde",
+        "age": "21",
+        "course": "ML"
+    }
+]
