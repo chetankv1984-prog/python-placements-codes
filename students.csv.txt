@@ -1,0 +1,6 @@
+name,marks
+ram,80
+sam,70
+ravi,90
+kiran,60
+
